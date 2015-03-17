@@ -10,4 +10,4 @@ project.vim
 .project
 .classpath
 .metadata/
-.sc
+*.sc
